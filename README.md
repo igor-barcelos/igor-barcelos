@@ -10,5 +10,6 @@
 
 ## 🚀 Current Projects
 
-- 🏗️ **[buckle](https://github.com/igor-barcelos/buckle)** - Finite element analysis web app for 3D structural frame modeling
-- ⚡ **[buckle-cli](https://github.com/igor-barcelos/buckle-cli)** - AI-powered terminal agent for quick structural analysis tasks
+- **[buckle](https://github.com/igor-barcelos/buckle)** - Finite element analysis web app for 3D structural frame modeling
+- **[buckle-cli](https://github.com/igor-barcelos/buckle-cli)** - AI-powered terminal agent for quick structural analysis tasks
+- **[openseespy-viewer](https://github.com/igor-barcelos/openseespy-viewer)** - Viewer for openseespy models.
