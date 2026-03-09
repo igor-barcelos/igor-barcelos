@@ -10,6 +10,5 @@
 
 ## 🚀 Current Projects
 
-- 🏆 **[Project Name](https://github.com/yourusername/project)** - Brief description
-- 🔧 **[Project Name](https://github.com/yourusername/project)** - Brief description
-- 📦 **[Project Name
+- 🏗️ **[buckle](https://github.com/igor-barcelos/buckle)** - Finite element analysis web app for 3D structural frame modeling
+- ⚡ **[buckle-cli](https://github.com/igor-barcelos/buckle-cli)** - AI-powered terminal agent for quick structural analysis tasks
