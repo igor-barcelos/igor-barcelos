@@ -13,3 +13,4 @@
 - **[buckle](https://github.com/igor-barcelos/buckle)** - Finite element analysis web app for 3D structural frame modeling
 - **[buckle-cli](https://github.com/igor-barcelos/buckle-cli)** - AI-powered terminal agent for quick structural analysis tasks
 - **[openseespy-viewer](https://github.com/igor-barcelos/openseespy-viewer)** - Viewer for openseespy models.
+- **[ops-code](https://github.com/igor-barcelos/ops-code)** - A vs-code extension to run openseespy models.
